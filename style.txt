@@ -1,0 +1,15 @@
+h1 {
+font-family: monospace;
+font-variant: normal;
+color: 
+text-shadow: none
+letter-spacing: 6px;
+}
+
+h2 {
+font-family: monospace;
+font-variant: normal;
+color: 
+text-shadow: none
+letter-spacing: 6px;
+}

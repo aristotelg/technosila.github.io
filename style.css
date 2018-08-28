@@ -1,0 +1,16 @@
+h1 {
+font-family: "times new roman";
+font-variant: normal;
+color: 
+text-shadow: 10px 10px 8px gray;
+letter-spacing: 2px;
+}
+
+body {
+background-image: url("lico.gif")
+}
+
+#text {
+font-family: "times new roman";
+letter-spacing: 7px;
+}

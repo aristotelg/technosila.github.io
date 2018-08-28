@@ -1,0 +1,17 @@
+<html>
+<head>
+<link rel="stylesheet"
+href="style.css">
+шалаш
+</head>
+<body>
+<h1 alrign="center">
+<strong>шалаш</strong>
+</h1>
+<br />
+<br />
+<h2 align="center">
+здесь мы будем прятаться
+</h2>
+</body>
+</html>
